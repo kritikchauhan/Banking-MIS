@@ -55,7 +55,7 @@ This dashboard demonstrates practical domain understanding of retail lending, cr
 It effectively bridges raw transaction data with business-focused insights required by banks, NBFCs, and financial analytics teams, making it a strong portfolio project for MIS Executive, Data Analyst, and Finance Analyst roles.
 
 ## Snapshots
-
+loans-report.png
 
 ## Author
 Kritik Chauhan
