@@ -56,6 +56,7 @@ It effectively bridges raw transaction data with business-focused insights requi
 
 ## Snapshots
 ![Dashboard Screenshot](loans-report.png)
+![Dashboard Screenshot](transactions-report.png)
 
 ## Author
 Kritik Chauhan
